@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ConsoleApp2/lab2-1.csproj" />
+  <Project Path="lab2-2/lab2-2.csproj" Id="6ae1d57d-80fe-4e91-9179-54caa5f66a53" />
+  <Project Path="lab2-3/lab2-3.csproj" Id="96d71fc1-0e8e-4e1a-86ed-1f8272600720" />
+  <Project Path="lab2-4/lab2-4.csproj" Id="43f5f4de-2473-4f18-8c84-48567bfad1c4" />
+  <Project Path="lab2-5/lab2-5.csproj" Id="ef109f93-3e5c-4239-9acb-02182d131be8" />
+</Solution>
